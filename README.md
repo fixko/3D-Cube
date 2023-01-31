@@ -1,6 +1,3 @@
-# Animates 3D CSS Cube
-
-
 # 3D Cube
 Animated 3D CSS Cube
 
